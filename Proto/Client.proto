@@ -1,0 +1,7 @@
+syntax = "proto3";
+import "Common.proto";
+
+message CSTestReq
+{
+    CSTestInfo TestInfo = 1;
+}

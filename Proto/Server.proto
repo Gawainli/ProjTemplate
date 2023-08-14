@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SCTestAck
+{
+	uint32 result_code = 1;
+}

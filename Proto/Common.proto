@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CSTestInfo
+{
+    string name = 1;
+}
